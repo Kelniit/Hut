@@ -15,3 +15,6 @@ Hut : Belajar Machine Learning Untuk Pemula :rock: or :page_facing_up: or :sciss
 #### :one: Lab 01
 
 > ![image](https://github.com/user-attachments/assets/0961989a-1bc5-469e-a46a-cf444b058bf6)
+
+### 📘 Others
+* [Hut on FastAPI](https://github.com/Kelniit/Huti)
