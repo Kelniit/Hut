@@ -14,4 +14,4 @@ Hut : Belajar Machine Learning Untuk Pemula :rock: or :page_facing_up: or :sciss
 
 #### :one: Lab 01
 
-> ![image](https://github.com/user-attachments/assets/1d372b81-15a3-4dde-a0bd-29b614fa0d8e)
+> ![image](https://github.com/user-attachments/assets/0961989a-1bc5-469e-a46a-cf444b058bf6)
