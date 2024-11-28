@@ -10,7 +10,7 @@ Hut : Belajar Machine Learning Untuk Pemula :rock: or :page_facing_up: or :sciss
 
 | Lab Colab | Model Quality |
 |:---------:|:-------------:|
-| Lab 01 | 0.95 |
+| Lab 01 | 0.94 |
 
 #### :one: Lab 01
 
